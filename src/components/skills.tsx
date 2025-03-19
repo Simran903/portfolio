@@ -3,15 +3,15 @@ import React from "react";
 const skills = [
   "NextJS",
   "React",
+  "NodeJS",
+  "MongoDB",
   "Javascript",
   "Typescript",
-  "PostgreSQL",
-  "MongoDB",
-  "Prisma",
-  "NodeJS",
-  "Github",
-  "AWS",
   "Python",
+  "PostgreSQL",
+  "Prisma",
+  "AWS",
+  "Github",
   "Figma"
 ];
 

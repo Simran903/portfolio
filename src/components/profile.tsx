@@ -13,7 +13,7 @@ const ProfileCard: React.FC = () => {
             Transforming ideas into <span className="text-primary-a10 font-semibold">reality</span>
           </p>
           <p className="mt-4 text-gray-300 text-base sm:text-lg lg:text-xl">
-            Creating modern, responsive, and scalable front-end solutions.
+          Crafting seamless, efficient, and scalable full-stack applications with modern tech.
           </p>
         </div>
       </div>
